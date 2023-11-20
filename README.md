@@ -83,4 +83,7 @@ Una vez termines todas las tareas asociadas a la unidad debes subir a la tarea d
 
 ## Autores
 **Adrian Vidal Piñeiro**
-
+Elena Quintela Babío
+Alejandro Rodríguez Gómez
+Beatriz Fontán
+Izan Santos Bascoy
